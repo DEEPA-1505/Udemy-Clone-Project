@@ -19,7 +19,7 @@ CSS3
 This is a static front-end project with no backend or interactive functionality. It is intended for learning and portfolio purposes only.
 
 how to view?
-you can access my Udemy Clone website by visiting [link] feel free to explore the content and get in touch!
+you can access my Udemy Clone website by visiting [https://deepa-1505.github.io/Udemy-Clone-Project/] feel free to explore the content and get in touch!
 
 
 Thank you for visiting my Udemy Clone Website
